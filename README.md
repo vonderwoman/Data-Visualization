@@ -1,7 +1,10 @@
 # Data-Visualization
 A Deep Dive into Matplotlib and Seaborn
 
+
 All you need to know about plots
+
+
   1)Comparison plots
     -Line chart
     -Bar chart
