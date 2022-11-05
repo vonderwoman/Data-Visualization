@@ -5,8 +5,6 @@ A Deep Dive into Matplotlib and Seaborn
 
 Data representation refers to the form in which you can store, process, and transmit data. Representations can narrate a story and convey fundamental discoveries to your audience. Without appropriately modeling your information to use it to make meaningful findings, its value is reduced. Creating representations helps us achieve a more precise, more concise, and more direct perspective of information, making it easier for anyone to understand the data. Information isn't equivalent to data. Representations are a useful apparatus to derive insights from the data. Thus, representations transform data into useful information. 
 
- 
-
  **Advantages of Visualizing data** 
 
 -Complex data can be easily understood. 
@@ -17,7 +15,6 @@ Data representation refers to the form in which you can store, process, and tran
 
  -Data can be explored through interactive visualizations. 
 
-
 **All you need to know about plots**
 
   1)Comparison plots 
@@ -25,9 +22,6 @@ Data representation refers to the form in which you can store, process, and tran
     -Line chart 
     -Bar chart 
     -Radar chart 
-
-     
-
    2)Relation plots 
 
      -scatter 
@@ -37,9 +31,6 @@ Data representation refers to the form in which you can store, process, and tran
      -Corregram 
 
      -heatmap 
-
-      
-
     3)Composition plots 
 
      -donut/pie chart 
@@ -47,8 +38,6 @@ Data representation refers to the form in which you can store, process, and tran
      -Stacked bar 
 
      -Stacked area chart 
-
-      
 
     4)Venn diagram 
 
@@ -61,8 +50,6 @@ Data representation refers to the form in which you can store, process, and tran
      -Boxplot 
 
      -Violin 
-
-      
 
     6)Geoplots 
 
