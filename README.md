@@ -23,9 +23,7 @@ Data representation refers to the form in which you can store, process, and tran
   1)Comparison plots 
 
     -Line chart 
-
     -Bar chart 
-
     -Radar chart 
 
      
