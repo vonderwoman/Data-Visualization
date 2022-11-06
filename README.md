@@ -69,11 +69,11 @@ Data representation refers to the form in which you can store, process, and tran
 
 # Visualizing Stock Trends by Using a Line Plot 
 
-###Scenario of the project###
+***Scenario of the project***
 
 You are interested in investing in stocks. You downloaded the stock prices for the "big five": Amazon, Google, Apple, Facebook, and Microsoft. You want to visualize the closing prices in dollars to identify trends.  
 
-###Objective###
+**Objective**
 
 -To create a line plot to showcase stock trends 
 
@@ -89,7 +89,7 @@ Using Matplotlib to create a line chart visualizing the closing prices for the p
 
 In this project,we will be using the Bar plots to compare the five movies with scores from Rotten Tomatoes. 
 
-##Associated  Tasks##
+**Associated  Tasks**
 
 Use Matplotlib to create a visually appealing bar plot comparing the two scores for all five movies. 
 
