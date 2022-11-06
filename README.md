@@ -67,5 +67,33 @@ Data representation refers to the form in which you can store, process, and tran
 
     -Your visualization should tell a story and should be designed for your audience. 
 
+# Visualizing Stock Trends by Using a Line Plot 
+
+###Scenario of the project###
+
+You are interested in investing in stocks. You downloaded the stock prices for the "big five": Amazon, Google, Apple, Facebook, and Microsoft. You want to visualize the closing prices in dollars to identify trends.  
+
+###Objective###
+
+-To create a line plot to showcase stock trends 
+
+-Using Labels,title and legend to make the visualization self-explanatory and complete 
+
  
+
+We are presented with 5 dataset from Google,Facebook,Apple,Amazon and Microsoft. We will use pandas to read the datasets (GOOGL_data.csv, FB_data.csv, AAPL_data.csv, AMZN_data.csv, and MSFT_data.csv) located in the Datasets folder. The read_csv() function reads a .csv file into a DataFrame. 
+
+Using Matplotlib to create a line chart visualizing the closing prices for the past 5 years (whole data sequence) for all five companies. Add labels, titles, and a legend to make the visualization self-explanatory. Use plt.grid() to add a grid to your plot. If necessary, adjust the ticks in order to make them readable. 
+
+# Movie Comparison using Bar Plots 
+
+In this project,we will be using the Bar plots to compare the five movies with scores from Rotten Tomatoes. 
+
+##Associated  Tasks##
+
+Use Matplotlib to create a visually appealing bar plot comparing the two scores for all five movies. 
+
+Use the movie titles as labels for the x-axis. Use percentages at intervals of 20 for the y-axis and minor ticks at intervals of 5. Add a legend and a suitable title to the plot.  
+
+Use functions that are required to explicitly specify the axes.
 
